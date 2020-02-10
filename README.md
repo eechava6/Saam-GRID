@@ -15,7 +15,10 @@ npm install
 ```
 
 ### Start
+
 ```
+npm i --global electron (If you haven't installed Electron globally) 
+
 npm start
 ```
 
